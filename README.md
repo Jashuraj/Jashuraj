@@ -2,7 +2,7 @@
 <!--
 **Jashuraj/Jashuraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
--->
+https://github.com/Global-Classroom/intro-to-github-Jashuraj -->
 ### <b>Jashwanth Raj :wink: </b>Here. <br> 
 An Student Working On Improving Knowledge In :computer:Computer Science.<br>
 It May Feel Boar:sleepy: You To Read About Myself:joy:.<br>
