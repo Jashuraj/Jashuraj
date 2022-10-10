@@ -14,4 +14,4 @@ That's Why I Created :tada:Choota Check List:confetti_ball:.
 - 🤔 I’m Looking For Help With Back-End Development.
 - 💬 Ask me about Computer Networking And Linux.
 - 📫 How to reach me: iamjashuraj@gmail.com
-- ⚡ Fun fact: This Is My Pre Designed Website https://jashwanth-raj.github.io/website.github.io/
+- ⚡ Fun fact: This Is My Pre-Designed Website Hosted On Github: https://jashwanth-raj.github.io/website.github.io/
