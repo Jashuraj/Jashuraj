@@ -1,17 +1,17 @@
-### Hi there 👋
+### Hi there 👋 <b>JASHWANTH RAJ :wink: </b>here <br> 
 <!--
 **Jashuraj/Jashuraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 https://github.com/Global-Classroom/intro-to-github-Jashuraj -->
-### <b>Jashwanth Raj :wink: </b>Here. <br> 
-An Student Working On Improving Knowledge In :computer:Computer Science.<br>
-It May Feel Boar:sleepy: You To Read About Myself:joy:.<br>
-That's Why I Created :tada:Choota Check List:confetti_ball:.
 
-- 🔭 I’m Currently Working On Perceiving BCA.
-- 🌱 I’m Currently Learning C Programming Language.
-- 👯 I’m Looking To Collaborate On Python Based Projects.
-- 🤔 I’m Looking For Help With Back-End Development.
-- 💬 Ask me about Computer Networking And Linux.
+An student working on improving knowledge in :computer:<b>Computer Science</b>.<br>
+It may feel boar:sleepy: you to read about myself:joy:.<br>
+That's why i created :tada:<b>Check List</b>:confetti_ball:.
+
+- 🔭 I’m currently working on perceiving <b>BCA</b>.
+- 🌱 I’m currently learning <b>C Programming</b> language.
+- 👯 I’m looking to collaborate on <b>Python Based Projects</b>.
+- 🤔 I’m looking for help with <b>Back-End Development</b>.
+- 💬 Ask me about <b>Computer Networking And Linux</b>.
 - 📫 How to reach me: iamjashuraj@gmail.com
-- ⚡ Fun fact: This Is My Pre-Designed Website Hosted On Github: https://jashwanth-raj.github.io/website.github.io/
+- ⚡ Fun fact: This is my Pre-Designed website hosted on Github: https://jashwanth-raj.github.io/website.github.io/
